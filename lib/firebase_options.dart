@@ -38,30 +38,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBUuygJPWx6NwL82PTbEisS8uaAdTp2vpk',
-    appId: '1:1018415533699:web:63a5de77cdb80bea6d95b6',
-    messagingSenderId: '1018415533699',
-    projectId: 'test-f9fab',
-    authDomain: 'test-f9fab.firebaseapp.com',
-    storageBucket: 'test-f9fab.appspot.com',
-    measurementId: 'G-QJVL5T7NG2',
+    apiKey: 'AIzaSyCa5ewaE07himLDxUrU7sEywmAZRA9WJtg',
+    appId: '1:943129182937:web:1f3349a4b9f6095e7cf4c8',
+    messagingSenderId: '943129182937',
+    projectId: 'facerecog-4d636',
+    authDomain: 'facerecog-4d636.firebaseapp.com',
+    storageBucket: 'facerecog-4d636.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDPLAnAxx9tvHDBTrNtMJ1K43fa6NIbeaE',
-    appId: '1:1018415533699:android:23714a49cb608ef56d95b6',
-    messagingSenderId: '1018415533699',
-    projectId: 'test-f9fab',
-    storageBucket: 'test-f9fab.appspot.com',
+    apiKey: 'AIzaSyC6AFK7X_d98-n7RGLoLz8NP3mdPojBoSU',
+    appId: '1:943129182937:android:a2e14f0782a01ba97cf4c8',
+    messagingSenderId: '943129182937',
+    projectId: 'facerecog-4d636',
+    storageBucket: 'facerecog-4d636.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAZVe8xK4A7CtAZlz8BJEUJPGyn3PJ33dc',
-    appId: '1:1018415533699:ios:2d80bbdb8c39df796d95b6',
-    messagingSenderId: '1018415533699',
-    projectId: 'test-f9fab',
-    storageBucket: 'test-f9fab.appspot.com',
-    iosClientId: '1018415533699-2js7jfcts980pmac0c522mbtki6spfki.apps.googleusercontent.com',
-    iosBundleId: 'com.example.app',
+    apiKey: 'AIzaSyBybh3Alhbgx6Y5OL_39qakXozPgLhr794',
+    appId: '1:943129182937:ios:9b1192976c4b9f5e7cf4c8',
+    messagingSenderId: '943129182937',
+    projectId: 'facerecog-4d636',
+    storageBucket: 'facerecog-4d636.appspot.com',
+    iosClientId: '943129182937-vnigglu63p367gtbc8kp8ir7qqr3p9mq.apps.googleusercontent.com',
+    iosBundleId: 'com.aldyn.facerecog',
   );
 }
